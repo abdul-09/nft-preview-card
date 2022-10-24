@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://Abdulaziz Hussein.netlify.app)
+- Solution URL:(https://Abdulaziz Hussein.netlify.app)
 
 ## My process
 
@@ -43,22 +43,6 @@ Users should be able to:
 ### What I learned
 I learned that using transform: translate(-50%,-50%) helps you position an img at the exact center. I also learned about the position element and the z-index that helps positioning and specifies the stack order of the elements.
 
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 ### Continued development
  My focus is on css animations which is slightly challenging me 
 
