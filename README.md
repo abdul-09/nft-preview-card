@@ -30,7 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://Abdulaziz Hussein.netlify.app)
+- Solution URL:(https://github.com/abdul-09/nft-preview-card)
+- live URL : (https://heroic-nft-preview-card.netlify.app/)
 
 ## My process
 
@@ -50,6 +51,6 @@ I learned that using transform: translate(-50%,-50%) helps you position an img a
 
 ## Author
 
-- Website - [Add your name here](https://www.AbdulazizHussein.netlify.app)
+- Website - (https://www.AbdulazizHussein.netlify.app)
 - Frontend Mentor - [@AbdulazizHussein](https://www.frontendmentor.io/profile/AbdulazizHussein)
-- Twitter - [@HusAbdul](https://www.twitter.com/HusAbdul)
+- Twitter - [@HusAbdul001](https://www.twitter.com/HusAbdul001)
